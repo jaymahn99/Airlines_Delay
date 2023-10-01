@@ -1,4 +1,8 @@
 # Airlines_delay - Lorenzo, Jay, Tom
+
+PA2 contains the assignment
+
+
 For this assignment, multiple libraries are used. These are (with install)
 
 import folium (pip install folium)
