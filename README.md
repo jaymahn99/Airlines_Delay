@@ -1,6 +1,7 @@
 # Airlines_delay - Lorenzo, Jay, Tom
 
-PA2 contains the assignment
+PA2_Stable contain the assignment with quick response.
+PA2 contains the assignment with experimental features. This however, works quite slow. 
 
 
 For this assignment, multiple libraries are used. These are (with install)
