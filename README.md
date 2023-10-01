@@ -25,3 +25,5 @@ import math (pip install math)
 import altair as alt (pip install altair)
 
 from sklearn import preprocessing (pip install sklearn)
+
+Import seaborn as sns
